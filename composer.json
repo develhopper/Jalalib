@@ -1,0 +1,19 @@
+{
+    "name": "develhopper/jalalib",
+    "description": "Convert Jalali Date to Gregorian and vice versa",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "develhopper",
+            "email": "develhoper.0@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Jalalib\\":"src/"
+        }
+    }
+}
